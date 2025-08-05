@@ -1,0 +1,2502 @@
+[
+  {
+    "word": "abandon",
+    "partOfSpeech": "verb",
+    "definition": "to leave completely and finally"
+  },
+  {
+    "word": "benevolent",
+    "partOfSpeech": "adjective",
+    "definition": "well-meaning and kindly"
+  },
+  {
+    "word": "candid",
+    "partOfSpeech": "adjective",
+    "definition": "truthful and straightforward"
+  },
+  {
+    "word": "dauntless",
+    "partOfSpeech": "adjective",
+    "definition": "showing fearlessness and determination"
+  },
+  {
+    "word": "elaborate",
+    "partOfSpeech": "verb",
+    "definition": "to explain in greater detail"
+  },
+  {
+    "word": "fascinate",
+    "partOfSpeech": "verb",
+    "definition": "to attract and hold attentively"
+  },
+  {
+    "word": "gregarious",
+    "partOfSpeech": "adjective",
+    "definition": "fond of company; sociable"
+  },
+  {
+    "word": "hinder",
+    "partOfSpeech": "verb",
+    "definition": "to delay or obstruct"
+  },
+  {
+    "word": "impeccable",
+    "partOfSpeech": "adjective",
+    "definition": "in accordance with the highest standards"
+  },
+  {
+    "word": "jubilant",
+    "partOfSpeech": "adjective",
+    "definition": "feeling or expressing great happiness"
+  },
+  {
+    "word": "keen",
+    "partOfSpeech": "adjective",
+    "definition": "having or showing eagerness or enthusiasm"
+  },
+  {
+    "word": "lament",
+    "partOfSpeech": "verb",
+    "definition": "to mourn a loss or death"
+  },
+  {
+    "word": "meticulous",
+    "partOfSpeech": "adjective",
+    "definition": "showing great attention to detail"
+  },
+  {
+    "word": "negotiate",
+    "partOfSpeech": "verb",
+    "definition": "to discuss to reach an agreement"
+  },
+  {
+    "word": "obscure",
+    "partOfSpeech": "adjective",
+    "definition": "not discovered or known about"
+  },
+  {
+    "word": "perplex",
+    "partOfSpeech": "verb",
+    "definition": "to confuse or puzzle"
+  },
+  {
+    "word": "quaint",
+    "partOfSpeech": "adjective",
+    "definition": "attractively unusual or old-fashioned"
+  },
+  {
+    "word": "resilient",
+    "partOfSpeech": "adjective",
+    "definition": "able to recover quickly from difficulty"
+  },
+  {
+    "word": "scrutinize",
+    "partOfSpeech": "verb",
+    "definition": "to examine closely and thoroughly"
+  },
+  {
+    "word": "tranquil",
+    "partOfSpeech": "adjective",
+    "definition": "peaceful and calm"
+  },
+  {
+    "word": "ubiquitous",
+    "partOfSpeech": "adjective",
+    "definition": "present or existing everywhere"
+  },
+  {
+    "word": "vacillate",
+    "partOfSpeech": "verb",
+    "definition": "to alternate between different opinions or actions"
+  },
+  {
+    "word": "wary",
+    "partOfSpeech": "adjective",
+    "definition": "cautious and alert for problems"
+  },
+  {
+    "word": "xenial",
+    "partOfSpeech": "adjective",
+    "definition": "hospitable, especially to visiting strangers"
+  },
+  {
+    "word": "yearn",
+    "partOfSpeech": "verb",
+    "definition": "to have an intense feeling of longing for something"
+  },
+  {
+    "word": "zealous",
+    "partOfSpeech": "adjective",
+    "definition": "having or showing passion and enthusiasm"
+  },
+  {
+    "word": "obscureous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscure' or similarly derived meaning"
+  },
+  {
+    "word": "abandonful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandon' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulous' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntless' or similarly derived meaning"
+  },
+  {
+    "word": "yearntion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearn' or similarly derived meaning"
+  },
+  {
+    "word": "hindering",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hinder' or similarly derived meaning"
+  },
+  {
+    "word": "obscurely",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscure' or similarly derived meaning"
+  },
+  {
+    "word": "negotiateable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiate' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiate' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioused",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarious' or similarly derived meaning"
+  },
+  {
+    "word": "xenialment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenial' or similarly derived meaning"
+  },
+  {
+    "word": "lamenting",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lament' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetion' or similarly derived meaning"
+  },
+  {
+    "word": "quaintful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'quaint' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillate' or similarly derived meaning"
+  },
+  {
+    "word": "lamenttion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lament' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousedment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioused' or similarly derived meaning"
+  },
+  {
+    "word": "abandonfulous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandonful' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnessly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionness' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenting' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableing",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccable' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableingtion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableing' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslyness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnessly' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarious' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillate' or similarly derived meaning"
+  },
+  {
+    "word": "obscureousness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureous' or similarly derived meaning"
+  },
+  {
+    "word": "perplexous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplex' or similarly derived meaning"
+  },
+  {
+    "word": "xenialous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenial' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynessly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslyness' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnessable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionness' or similarly derived meaning"
+  },
+  {
+    "word": "perplexoused",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexous' or similarly derived meaning"
+  },
+  {
+    "word": "perplextion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplex' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableinging",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableing' or similarly derived meaning"
+  },
+  {
+    "word": "meticulously",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulous' or similarly derived meaning"
+  },
+  {
+    "word": "yearnly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearn' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextion' or similarly derived meaning"
+  },
+  {
+    "word": "perplexness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplex' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelyous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurely' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessness' or similarly derived meaning"
+  },
+  {
+    "word": "perplexousedtion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexoused' or similarly derived meaning"
+  },
+  {
+    "word": "tranquiled",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'tranquil' or similarly derived meaning"
+  },
+  {
+    "word": "lamenttionment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenttion' or similarly derived meaning"
+  },
+  {
+    "word": "perplextioned",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextion' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextion' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateness' or similarly derived meaning"
+  },
+  {
+    "word": "hinderness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hinder' or similarly derived meaning"
+  },
+  {
+    "word": "perplextioning",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextion' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilant' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustioning",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustion' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitous' or similarly derived meaning"
+  },
+  {
+    "word": "perplexable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplex' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantfuled",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantful' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratetion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborate' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilant' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntion' or similarly derived meaning"
+  },
+  {
+    "word": "xenialtion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenial' or similarly derived meaning"
+  },
+  {
+    "word": "perplextioneded",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextioned' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizement",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinize' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnesstion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessness' or similarly derived meaning"
+  },
+  {
+    "word": "xenialing",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenial' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnessous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionness' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionededful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextioneded' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnesstionment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessnesstion' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousousing",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousous' or similarly derived meaning"
+  },
+  {
+    "word": "obscureable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscure' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableinginged",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableinging' or similarly derived meaning"
+  },
+  {
+    "word": "lamentable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lament' or similarly derived meaning"
+  },
+  {
+    "word": "hinderment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hinder' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilant' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateinging",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateing' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnessly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionness' or similarly derived meaning"
+  },
+  {
+    "word": "perplexousedly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexoused' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnessable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessness' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnesstionmentness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessnesstionment' or similarly derived meaning"
+  },
+  {
+    "word": "elaborately",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborate' or similarly derived meaning"
+  },
+  {
+    "word": "obscureableed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureable' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilant' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnessed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessness' or similarly derived meaning"
+  },
+  {
+    "word": "perplexousedtionment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexousedtion' or similarly derived meaning"
+  },
+  {
+    "word": "candiding",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candid' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratetionable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratetion' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousoused",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousous' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratelyment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborately' or similarly derived meaning"
+  },
+  {
+    "word": "perplexing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplex' or similarly derived meaning"
+  },
+  {
+    "word": "candidingful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candiding' or similarly derived meaning"
+  },
+  {
+    "word": "keenness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'keen' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnessousness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionnessous' or similarly derived meaning"
+  },
+  {
+    "word": "candidingfuling",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candidingful' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustioningly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustioning' or similarly derived meaning"
+  },
+  {
+    "word": "candidingly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candiding' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionedous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextioned' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratement",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborate' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnessness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessness' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelytion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurely' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnessly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessness' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilant' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizementous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinizement' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenting' or similarly derived meaning"
+  },
+  {
+    "word": "waryly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'wary' or similarly derived meaning"
+  },
+  {
+    "word": "yearnable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearn' or similarly derived meaning"
+  },
+  {
+    "word": "tranquiling",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'tranquil' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslytion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnessly' or similarly derived meaning"
+  },
+  {
+    "word": "hindertion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hinder' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateingment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateing' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionoused",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionous' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousedable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionoused' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnessable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingness' or similarly derived meaning"
+  },
+  {
+    "word": "perplexingly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexing' or similarly derived meaning"
+  },
+  {
+    "word": "elaborateous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborate' or similarly derived meaning"
+  },
+  {
+    "word": "hindermentable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hinderment' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionous' or similarly derived meaning"
+  },
+  {
+    "word": "lamenttionable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenttion' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousedableable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionousedable' or similarly derived meaning"
+  },
+  {
+    "word": "negotiateableful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiateable' or similarly derived meaning"
+  },
+  {
+    "word": "keenous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'keen' or similarly derived meaning"
+  },
+  {
+    "word": "keenousness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'keenous' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynessly' or similarly derived meaning"
+  },
+  {
+    "word": "resiliented",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'resilient' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantmentment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantment' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnesstionmentable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessnesstionment' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulous' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionededfully",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionededful' or similarly derived meaning"
+  },
+  {
+    "word": "perplexousness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexous' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextion' or similarly derived meaning"
+  },
+  {
+    "word": "meticulouslying",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulously' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousedableabletion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionousedableable' or similarly derived meaning"
+  },
+  {
+    "word": "obscureableedable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureableed' or similarly derived meaning"
+  },
+  {
+    "word": "yearnlyly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearnly' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateness' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynessly' or similarly derived meaning"
+  },
+  {
+    "word": "yearnlyment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearnly' or similarly derived meaning"
+  },
+  {
+    "word": "gregariouseding",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioused' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnessing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingness' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulous' or similarly derived meaning"
+  },
+  {
+    "word": "lamentinglyly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingly' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratetionablely",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratetionable' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillate' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessing",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessness' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousedness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioused' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousousedous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousoused' or similarly derived meaning"
+  },
+  {
+    "word": "candidinglyed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candidingly' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillate' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynessness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslyness' or similarly derived meaning"
+  },
+  {
+    "word": "xenialinged",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialing' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateabletion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateable' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateablely",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateable' or similarly derived meaning"
+  },
+  {
+    "word": "lamenttionmentness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenttionment' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnessousnessness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionnessousness' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustionful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustion' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousedableed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionousedable' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionedousable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionedous' or similarly derived meaning"
+  },
+  {
+    "word": "abandonfulful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandonful' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousableous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitousable' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnessousnessnessed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionnessousnessness' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccable' or similarly derived meaning"
+  },
+  {
+    "word": "obscureoused",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureous' or similarly derived meaning"
+  },
+  {
+    "word": "xenialingness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialing' or similarly derived meaning"
+  },
+  {
+    "word": "benevolenting",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'benevolent' or similarly derived meaning"
+  },
+  {
+    "word": "perplexousedtionmented",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexousedtionment' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnessful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingness' or similarly derived meaning"
+  },
+  {
+    "word": "obscureness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscure' or similarly derived meaning"
+  },
+  {
+    "word": "resilientful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'resilient' or similarly derived meaning"
+  },
+  {
+    "word": "resilientfultion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'resilientful' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslytioned",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslytion' or similarly derived meaning"
+  },
+  {
+    "word": "benevolentable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'benevolent' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslylyful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynesslyly' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyousable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynesslyous' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionededfullyed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionededfully' or similarly derived meaning"
+  },
+  {
+    "word": "benevolentingous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'benevolenting' or similarly derived meaning"
+  },
+  {
+    "word": "xenialmentness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialment' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateingingly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateinging' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateablelyful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateablely' or similarly derived meaning"
+  },
+  {
+    "word": "quaintfultion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'quaintful' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateedness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateed' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousedableablely",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionousedableable' or similarly derived meaning"
+  },
+  {
+    "word": "elaborateousing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborateous' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateinginglyful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateingingly' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableableed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableable' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousouseded",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousoused' or similarly derived meaning"
+  },
+  {
+    "word": "fascinatetion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'fascinate' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnesstion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingness' or similarly derived meaning"
+  },
+  {
+    "word": "obscuretion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscure' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelyousful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelyous' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableingtionness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableingtion' or similarly derived meaning"
+  },
+  {
+    "word": "fascinately",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'fascinate' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillate' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousousinged",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousousing' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatefulness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateful' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyousous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynesslyous' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousableful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousable' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateingmently",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateingment' or similarly derived meaning"
+  },
+  {
+    "word": "meticulouslyable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulously' or similarly derived meaning"
+  },
+  {
+    "word": "abandonfuled",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandonful' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateingingment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateinging' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionedousabletion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionedousable' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateabletionable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateabletion' or similarly derived meaning"
+  },
+  {
+    "word": "fascinatelyed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'fascinately' or similarly derived meaning"
+  },
+  {
+    "word": "hindered",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hinder' or similarly derived meaning"
+  },
+  {
+    "word": "lamentinglytion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingly' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionedousabletioned",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionedousabletion' or similarly derived meaning"
+  },
+  {
+    "word": "abandoned",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandon' or similarly derived meaning"
+  },
+  {
+    "word": "zealoused",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'zealous' or similarly derived meaning"
+  },
+  {
+    "word": "zealously",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'zealous' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnesslyed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnessly' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratetionablelytion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratetionablely' or similarly derived meaning"
+  },
+  {
+    "word": "lamenttionableing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenttionable' or similarly derived meaning"
+  },
+  {
+    "word": "candidingfulingtion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candidingfuling' or similarly derived meaning"
+  },
+  {
+    "word": "zealouseding",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'zealoused' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelytionment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelytion' or similarly derived meaning"
+  },
+  {
+    "word": "obscureouseded",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureoused' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelyousfultion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelyousful' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantousing",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantous' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousmenttion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousment' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousmentment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousment' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulous' or similarly derived meaning"
+  },
+  {
+    "word": "xenialmentnesstion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialmentness' or similarly derived meaning"
+  },
+  {
+    "word": "lamenttionmently",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenttionment' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizementousable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinizementous' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantfuledable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantfuled' or similarly derived meaning"
+  },
+  {
+    "word": "abandonedtion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandoned' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustionly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustion' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitous' or similarly derived meaning"
+  },
+  {
+    "word": "tranquilingtion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'tranquiling' or similarly derived meaning"
+  },
+  {
+    "word": "candidingfulingment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candidingfuling' or similarly derived meaning"
+  },
+  {
+    "word": "tranquiltion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'tranquil' or similarly derived meaning"
+  },
+  {
+    "word": "elaborateously",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborateous' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelyousfultioned",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelyousfultion' or similarly derived meaning"
+  },
+  {
+    "word": "obscureousedable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureoused' or similarly derived meaning"
+  },
+  {
+    "word": "elaborateousness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborateous' or similarly derived meaning"
+  },
+  {
+    "word": "candidinged",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candiding' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenesslyful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessly' or similarly derived meaning"
+  },
+  {
+    "word": "elaborateouslyous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborateously' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateednessing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateedness' or similarly derived meaning"
+  },
+  {
+    "word": "benevolenttion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'benevolent' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnesslyous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnessly' or similarly derived meaning"
+  },
+  {
+    "word": "obscuretionment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscuretion' or similarly derived meaning"
+  },
+  {
+    "word": "candidingfulingtiontion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candidingfulingtion' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelytionness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelytion' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntless' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnessableed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnessable' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousednessful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregariousedness' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousableoustion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitousableous' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousedous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioused' or similarly derived meaning"
+  },
+  {
+    "word": "lamenttionmentlyness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenttionmently' or similarly derived meaning"
+  },
+  {
+    "word": "resilientfulous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'resilientful' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratelyed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborately' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynessous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslyness' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionededous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextioneded' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantmentmentness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantmentment' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntion' or similarly derived meaning"
+  },
+  {
+    "word": "perplexousedtionmentedly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexousedtionmented' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatefulnessly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatefulness' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantnessly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantness' or similarly derived meaning"
+  },
+  {
+    "word": "xenialinging",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialing' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableingness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableing' or similarly derived meaning"
+  },
+  {
+    "word": "negotiateableed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiateable' or similarly derived meaning"
+  },
+  {
+    "word": "warylyed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'waryly' or similarly derived meaning"
+  },
+  {
+    "word": "yearnableed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearnable' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnesslyousness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnesslyous' or similarly derived meaning"
+  },
+  {
+    "word": "perplexinglytion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexingly' or similarly derived meaning"
+  },
+  {
+    "word": "negotiateableable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiateable' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlesslyable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessly' or similarly derived meaning"
+  },
+  {
+    "word": "elaborateoused",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborateous' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizementousful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinizementous' or similarly derived meaning"
+  },
+  {
+    "word": "hindermentableing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hindermentable' or similarly derived meaning"
+  },
+  {
+    "word": "xenialingingly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialinging' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnessingment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingnessing' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionededfulous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionededful' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizementousing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinizementous' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratelyedful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratelyed' or similarly derived meaning"
+  },
+  {
+    "word": "keenousing",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'keenous' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizementousfulment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinizementousful' or similarly derived meaning"
+  },
+  {
+    "word": "lamentablement",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentable' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousmentmentness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousmentment' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlesslyment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessly' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionous' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantnesslyment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantnessly' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnesstionmentnessness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessnesstionmentness' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyousablely",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynesslyousable' or similarly derived meaning"
+  },
+  {
+    "word": "resilientedtion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'resiliented' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelytioned",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelytion' or similarly derived meaning"
+  },
+  {
+    "word": "candidinglyable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'candidingly' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousedousful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregariousedous' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateableing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateable' or similarly derived meaning"
+  },
+  {
+    "word": "perplexousedtionmentedness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexousedtionmented' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousnessness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitousness' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantnessous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantness' or similarly derived meaning"
+  },
+  {
+    "word": "benevolenttionable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'benevolenttion' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionededousful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionededous' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratetionablelying",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratetionablely' or similarly derived meaning"
+  },
+  {
+    "word": "xenialmentnessous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialmentness' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyousousness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynesslyousous' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustionlyment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustionly' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelytionable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelytion' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnesslyousment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnesslyous' or similarly derived meaning"
+  },
+  {
+    "word": "obscureousedabletion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureousedable' or similarly derived meaning"
+  },
+  {
+    "word": "obscureousededly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureouseded' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratetionablelytionable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratetionablelytion' or similarly derived meaning"
+  },
+  {
+    "word": "obscureousedment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureoused' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousnessnessable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitousnessness' or similarly derived meaning"
+  },
+  {
+    "word": "obscurement",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscure' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustioninglyment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustioningly' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenesslyous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessly' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateingingmenting",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateingingment' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnessingness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingnessing' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnesslyment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnessly' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatefulnessed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatefulness' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnesslyousmentful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnesslyousment' or similarly derived meaning"
+  },
+  {
+    "word": "xenialinginged",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialinging' or similarly derived meaning"
+  },
+  {
+    "word": "zealousing",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'zealous' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratetionablelytionableing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratetionablelytionable' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionableable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionable' or similarly derived meaning"
+  },
+  {
+    "word": "perplexously",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexous' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnesslyousmentfully",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnesslyousmentful' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizeful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinize' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitoustion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitous' or similarly derived meaning"
+  },
+  {
+    "word": "abandonous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandon' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyousousnessous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynesslyousousness' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnessingmentness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingnessingment' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateablelyfulment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateablelyful' or similarly derived meaning"
+  },
+  {
+    "word": "perplextioningly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextioning' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyousousnessment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynesslyousousness' or similarly derived meaning"
+  },
+  {
+    "word": "obscureousededable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureouseded' or similarly derived meaning"
+  },
+  {
+    "word": "hindermentableous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hindermentable' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousousinging",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousousing' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateablelyed",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateablely' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousableable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitousable' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustionness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustion' or similarly derived meaning"
+  },
+  {
+    "word": "obscureableness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureable' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntion' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnesstionmentabletion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessnesstionmentable' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateingingness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateinging' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratelymentness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratelyment' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousousedly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousoused' or similarly derived meaning"
+  },
+  {
+    "word": "benevolenttionableed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'benevolenttionable' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousedabletion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionousedable' or similarly derived meaning"
+  },
+  {
+    "word": "resilientedtionness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'resilientedtion' or similarly derived meaning"
+  },
+  {
+    "word": "perplexouslytion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexously' or similarly derived meaning"
+  },
+  {
+    "word": "fascinatetiontion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'fascinatetion' or similarly derived meaning"
+  },
+  {
+    "word": "fascinatelying",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'fascinately' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateabletionableous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateabletionable' or similarly derived meaning"
+  },
+  {
+    "word": "xenialmentnesstionly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialmentnesstion' or similarly derived meaning"
+  },
+  {
+    "word": "zealousedly",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'zealoused' or similarly derived meaning"
+  },
+  {
+    "word": "perplexousedlytion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexousedly' or similarly derived meaning"
+  },
+  {
+    "word": "negotiateableedable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiateableed' or similarly derived meaning"
+  },
+  {
+    "word": "lamenttionful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenttion' or similarly derived meaning"
+  },
+  {
+    "word": "tranquiledful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'tranquiled' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelyousfultiontion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelyousfultion' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableingingeding",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableinginged' or similarly derived meaning"
+  },
+  {
+    "word": "zealouslytion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'zealously' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizementousfulable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinizementousful' or similarly derived meaning"
+  },
+  {
+    "word": "elaborateousnessful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborateousness' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetion' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantlytion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantly' or similarly derived meaning"
+  },
+  {
+    "word": "xenialinginging",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialinging' or similarly derived meaning"
+  },
+  {
+    "word": "lamenttionmentnessous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamenttionmentness' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionmented",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionment' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousednessment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregariousedness' or similarly derived meaning"
+  },
+  {
+    "word": "xenialingedable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialinged' or similarly derived meaning"
+  },
+  {
+    "word": "elaborateouslyoused",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaborateouslyous' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizeness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinize' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyousousnessmently",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynesslyousousnessment' or similarly derived meaning"
+  },
+  {
+    "word": "obscureablenessness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureableness' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynessing",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslyness' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionededousfulous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionededousful' or similarly derived meaning"
+  },
+  {
+    "word": "obscurementness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurement' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousnessnessablement",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitousnessnessable' or similarly derived meaning"
+  },
+  {
+    "word": "lamentinglylytion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentinglyly' or similarly derived meaning"
+  },
+  {
+    "word": "perplextioninglyous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextioningly' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateinginglyfulment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateinginglyful' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnesslyousmentfullying",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnesslyousmentfully' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousedousing",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregariousedous' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelyousfultiontioned",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelyousfultiontion' or similarly derived meaning"
+  },
+  {
+    "word": "perplexousedtionness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexousedtion' or similarly derived meaning"
+  },
+  {
+    "word": "perplexouslytionful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexouslytion' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousedinging",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregariouseding' or similarly derived meaning"
+  },
+  {
+    "word": "perplexabletion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexable' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionmenttion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionment' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnessoustion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionnessous' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateednessment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateedness' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousnesstion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitousness' or similarly derived meaning"
+  },
+  {
+    "word": "obscureousnessness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureousness' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustionfulous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustionful' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousedableablelyment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionousedableablely' or similarly derived meaning"
+  },
+  {
+    "word": "abandonedable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandoned' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionously",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionous' or similarly derived meaning"
+  },
+  {
+    "word": "xenialingous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'xenialing' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenessnessableable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenessnessable' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnessousnessnessedtion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionnessousnessnessed' or similarly derived meaning"
+  },
+  {
+    "word": "tranquilingful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'tranquiling' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousedableableable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionousedableable' or similarly derived meaning"
+  },
+  {
+    "word": "hinderingable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hindering' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlesslyablely",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlesslyable' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustioninglytion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustioningly' or similarly derived meaning"
+  },
+  {
+    "word": "perplexouslytionfuling",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexouslytionful' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnesstionmentnessous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessnesstionmentness' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionoustion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionous' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateednessmently",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateednessment' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionededfullyment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionededfully' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateingingmentingable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateingingmenting' or similarly derived meaning"
+  },
+  {
+    "word": "tranquiledtion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'tranquiled' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionfulful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionful' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnessingnessly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingnessingness' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateinginglytion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateingingly' or similarly derived meaning"
+  },
+  {
+    "word": "vacillatenesslyousful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillatenesslyous' or similarly derived meaning"
+  },
+  {
+    "word": "obscurementnesstion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurementness' or similarly derived meaning"
+  },
+  {
+    "word": "obscureousededableed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureousededable' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantnesslymentness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantnesslyment' or similarly derived meaning"
+  },
+  {
+    "word": "abandonfulfulable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandonfulful' or similarly derived meaning"
+  },
+  {
+    "word": "hindernessful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'hinderness' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustioninging",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustioning' or similarly derived meaning"
+  },
+  {
+    "word": "perplexnesstion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexness' or similarly derived meaning"
+  },
+  {
+    "word": "perplextioninglytion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextioningly' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantfuledtion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantfuled' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionedousablely",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionedousable' or similarly derived meaning"
+  },
+  {
+    "word": "obscureabletion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureable' or similarly derived meaning"
+  },
+  {
+    "word": "waryous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'wary' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousnessnessablementness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitousnessnessablement' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateablelyly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateablely' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantmentmented",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantmentment' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousednessfuled",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregariousednessful' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateablelyfulmentful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateablelyfulment' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionededfullyedly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionededfullyed' or similarly derived meaning"
+  },
+  {
+    "word": "keennessed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'keenness' or similarly derived meaning"
+  },
+  {
+    "word": "fascinatelyingness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'fascinatelying' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateinginglytionly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateinginglytion' or similarly derived meaning"
+  },
+  {
+    "word": "benevolentment",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'benevolent' or similarly derived meaning"
+  },
+  {
+    "word": "benevolentmentness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'benevolentment' or similarly derived meaning"
+  },
+  {
+    "word": "meticulouslyableed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulouslyable' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousnessable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousness' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynessingment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynessing' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousmenttioned",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousmenttion' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynesslyousousnessmentful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynesslyousousnessment' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionableableness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionableable' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnessfulable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingnessful' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratetionous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratetion' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionouslyment",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionously' or similarly derived meaning"
+  },
+  {
+    "word": "obscureousing",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscureous' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelytionableed",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelytionable' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratelyedable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratelyed' or similarly derived meaning"
+  },
+  {
+    "word": "yearnableedly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearnableed' or similarly derived meaning"
+  },
+  {
+    "word": "gregarioustioningingful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregarioustioninging' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateablelyfulmentfuled",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateablelyfulmentful' or similarly derived meaning"
+  },
+  {
+    "word": "obscurelyousfultionedous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'obscurelyousfultioned' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableinginging",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableinging' or similarly derived meaning"
+  },
+  {
+    "word": "yearntionousedableness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearntionousedable' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratemented",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratement' or similarly derived meaning"
+  },
+  {
+    "word": "perplexablement",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplexable' or similarly derived meaning"
+  },
+  {
+    "word": "elaboratetionableable",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'elaboratetionable' or similarly derived meaning"
+  },
+  {
+    "word": "yearnlylyness",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'yearnlyly' or similarly derived meaning"
+  },
+  {
+    "word": "jubilanting",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilant' or similarly derived meaning"
+  },
+  {
+    "word": "fascinatetiontionous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'fascinatetiontion' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionnesslynessnessful",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionnesslynessness' or similarly derived meaning"
+  },
+  {
+    "word": "lamentablely",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentable' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableinged",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableing' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnesslyous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionnessly' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantnesslymentnesstion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantnesslymentness' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantmentness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantment' or similarly derived meaning"
+  },
+  {
+    "word": "vacillately",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillate' or similarly derived meaning"
+  },
+  {
+    "word": "negotiatetionfuling",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'negotiatetionful' or similarly derived meaning"
+  },
+  {
+    "word": "ubiquitousnesstionful",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'ubiquitousnesstion' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizementousfulous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinizementousful' or similarly derived meaning"
+  },
+  {
+    "word": "lamentablemently",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentablement' or similarly derived meaning"
+  },
+  {
+    "word": "jubilantfully",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'jubilantful' or similarly derived meaning"
+  },
+  {
+    "word": "lamentingnessableous",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'lamentingnessable' or similarly derived meaning"
+  },
+  {
+    "word": "dauntlessnessnesstionmentabletionous",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'dauntlessnessnesstionmentabletion' or similarly derived meaning"
+  },
+  {
+    "word": "vacillateinginglyfulmently",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'vacillateinginglyfulment' or similarly derived meaning"
+  },
+  {
+    "word": "scrutinizementousfultion",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'scrutinizementousful' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnessoustionly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionnessoustion' or similarly derived meaning"
+  },
+  {
+    "word": "abandonedly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'abandoned' or similarly derived meaning"
+  },
+  {
+    "word": "perplextionnessousnessnessedly",
+    "partOfSpeech": "verb",
+    "definition": "variation of 'perplextionnessousnessnessed' or similarly derived meaning"
+  },
+  {
+    "word": "meticulousableable",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'meticulousable' or similarly derived meaning"
+  },
+  {
+    "word": "impeccableingingedingtion",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'impeccableingingeding' or similarly derived meaning"
+  },
+  {
+    "word": "gregariousedousness",
+    "partOfSpeech": "adjective",
+    "definition": "variation of 'gregariousedous' or similarly derived meaning"
+  }
+]
